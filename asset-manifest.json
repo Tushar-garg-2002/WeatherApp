@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/WeatherApp.git/static/css/main.2adb02c1.css",
+    "main.js": "/WeatherApp.git/static/js/main.1282c185.js",
+    "static/js/787.d9312eb8.chunk.js": "/WeatherApp.git/static/js/787.d9312eb8.chunk.js",
+    "static/media/search.png": "/WeatherApp.git/static/media/search.183eefa6edc519fa18c9.png",
+    "static/media/thermometer.png": "/WeatherApp.git/static/media/thermometer.e367edad946466477d1d.png",
+    "index.html": "/WeatherApp.git/index.html",
+    "main.2adb02c1.css.map": "/WeatherApp.git/static/css/main.2adb02c1.css.map",
+    "main.1282c185.js.map": "/WeatherApp.git/static/js/main.1282c185.js.map",
+    "787.d9312eb8.chunk.js.map": "/WeatherApp.git/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2adb02c1.css",
+    "static/js/main.1282c185.js"
+  ]
+}
