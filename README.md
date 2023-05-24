@@ -19,3 +19,9 @@ open weather api has been used to get data
 
 ### Incase the code doesnt work, Run the followind commands
 npm install -D tailwindcss
+
+### Live Demo
+https://courageous-syrniki-dd6de2.netlify.app/
+
+### if it doesnt work change site settings
+search for insecure content, choose allow from dropdown
