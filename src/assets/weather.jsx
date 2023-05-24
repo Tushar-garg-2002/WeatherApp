@@ -4,7 +4,7 @@ import { useRef, useState } from "react";
 
 
 //api key for open weather api
-const API_KEY = "93ef97fc6ee2b8e4888c0ef0148bd079";
+const API_KEY = "";
 
 
 // Weather function/widget that can be used anywhere
